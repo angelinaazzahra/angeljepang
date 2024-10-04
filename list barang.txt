@@ -1,0 +1,6 @@
+senin:
+- kursi
+- meja
+selasa:
+- laptop
+- komputer
